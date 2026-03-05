@@ -7,3 +7,7 @@ scikit-learn
 pygwalker
 ydata-profiling
 plotly
+pmdarima
+xgboost
+prophet
+tensorflow
