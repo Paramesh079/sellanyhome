@@ -5,3 +5,7 @@ seaborn
 ipykernel
 requests
 duckduckgo_search
+ipywidgets
+jupyterlab-widgets
+xgboost
+scikit-learn
