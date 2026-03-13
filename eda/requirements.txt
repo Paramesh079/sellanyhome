@@ -9,3 +9,5 @@ ipywidgets
 jupyterlab-widgets
 xgboost
 scikit-learn
+plotly
+nbformat
